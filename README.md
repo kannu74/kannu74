@@ -1,10 +1,10 @@
 <p align="center">
-  <img src="https://i.pinimg.com/736x/55/1e/fc/551efc0cf04eb8defb2fac3fb115b0fc.jpg" alt="Banner" width="100%" height=50%/>
+  <img src="https://i.pinimg.com/736x/55/1e/fc/551efc0cf04eb8defb2fac3fb115b0fc.jpg" alt="Banner" width="100%" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Akshar Maitray</h1>
 <h3 align="center">A Python Enthusiast Exploring the Depths of Machine Learning and AI</h3>
-<img src="https://i.pinimg.com/736x/2e/1b/e8/2e1be823579c9926425f8f05501e90f8.jpg" 
+<img src="https://i.pinimg.com/originals/77/92/08/779208dfad11dfd0eb87c0e8fb4c2eb6.gif" 
      width="200" 
      align="right" 
      style="border-radius: 50%; margin: 10px;" />
