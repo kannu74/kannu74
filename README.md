@@ -1,10 +1,14 @@
 <p align="center">
-  <img src="https://i.pinimg.com/736x/55/1e/fc/551efc0cf04eb8defb2fac3fb115b0fc.jpg" alt="Banner" width="100%" />
+  <img src="https://i.pinimg.com/736x/55/1e/fc/551efc0cf04eb8defb2fac3fb115b0fc.jpg" alt="Banner" width="100%" height=50%/>
 </p>
 
 <h1 align="center">Hi 👋, I'm Akshar Maitray</h1>
 <h3 align="center">A Python Enthusiast Exploring the Depths of Machine Learning and AI</h3>
-<img src="https://i.pinimg.com/736x/97/a5/73/97a5736be95b0f2a04afeabb396f50ae.jpg"  width="400" align="right">
+<img src="https://i.pinimg.com/736x/2e/1b/e8/2e1be823579c9926425f8f05501e90f8.jpg" 
+     width="200" 
+     align="right" 
+     style="border-radius: 50%; margin: 10px;" />
+
 
 - 🔭 I’m currently working on **Spam mail classifier**
 
