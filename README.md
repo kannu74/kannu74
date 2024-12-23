@@ -4,7 +4,7 @@
 
 <h1 align="center">Hi 👋, I'm Akshar Maitray</h1>
 <h3 align="center">A Python Enthusiast Exploring the Depths of Machine Learning and AI</h3>
-<img src="[https://i.pinimg.com/originals/77/92/08/779208dfad11dfd0eb87c0e8fb4c2eb6.gif](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExajAzZ3hrZ3E3bmh3eTQ2ZHc4ZnFtcHQ1aGNjOXpwbHN2ODVtZDZ2dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/D7D0bE6Y4V8oOtdG4v/giphy.webp)" 
+<img src="https://i.pinimg.com/originals/d6/dd/6a/d6dd6a38e1c4f7ef071fa18a9007caf1.gif" 
      width="200" 
      align="right" 
      style="border-radius: 50%; margin: 10px;" />
