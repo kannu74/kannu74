@@ -1,7 +1,10 @@
-[![MasterHead](https://i.pinimg.com/originals/e5/f0/a9/e5f0a933282c244ec7d766420b8df754.gif)]
+<p align="center">
+  <img src="https://i.pinimg.com/736x/55/1e/fc/551efc0cf04eb8defb2fac3fb115b0fc.jpg" alt="Banner" width="100%" />
+</p>
+
 <h1 align="center">Hi 👋, I'm Akshar Maitray</h1>
 <h3 align="center">A Python Enthusiast Exploring the Depths of Machine Learning and AI</h3>
-<img src="https://i.pinimg.com/736x/b0/90/e7/b090e780a7c36e1a90108ee1da83d8af.jpg"  width="400" align="right">
+<img src="https://i.pinimg.com/736x/97/a5/73/97a5736be95b0f2a04afeabb396f50ae.jpg"  width="400" align="right">
 
 - 🔭 I’m currently working on **Spam mail classifier**
 
