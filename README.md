@@ -4,10 +4,6 @@
 
 <h1 align="center">Hi 👋, I'm Akshar Maitray</h1>
 <h3 align="center">A Python Enthusiast Exploring the Depths of Machine Learning and AI</h3>
-<img src="https://i.pinimg.com/originals/d6/dd/6a/d6dd6a38e1c4f7ef071fa18a9007caf1.gif" 
-     width="200" 
-     align="right" 
-     style="border-radius: 50%; margin: 10px;" />
 
 - 🔭 I’m currently working on **Spam mail classifier**
 
