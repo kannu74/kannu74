@@ -1,11 +1,11 @@
 <p align="center">
-  <img src="https://i.pinimg.com/736x/55/1e/fc/551efc0cf04eb8defb2fac3fb115b0fc.jpg" alt="Banner" width="100%" />
+  <img src="https://i.pinimg.com/736x/3a/8c/d2/3a8cd224614801bd1513ca759a185403.jpg" alt="Banner" width="100%" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Akshar Maitray</h1>
 <h3 align="center">A Python Enthusiast Exploring the Depths of Machine Learning and AI</h3>
 
-- 🔭 I’m currently working on **Spam mail classifier**
+- 🔭 I’m currently working on **Finetuning llama on ncert dataset**
 
 - 🌱 I’m currently learning **Tensor Flow, Pytorch, React**
 
@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **akshar.maitray18@gmail.com**
 
-- ⚡ Fun fact **Buck is Bisexual**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
