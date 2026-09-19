@@ -17,7 +17,7 @@
 
 - Ask me about **Python, ML/Agentic AI, or Anime**
 
-- How to reach me: **akshar.maitray18@gmail.com**
+- How to reach me: **aksharmaitray74@gmail.com**
 
 <br/>
 
