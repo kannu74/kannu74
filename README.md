@@ -171,12 +171,5 @@ A fine-tuned NCERT academic mentor built by QLoRA-tuning TinyLlama-1.1B on NCERT
   </a> 
 </p>
 
-<h3 align="left">GitHub Stats:</h3>
-<div align="center" style="display: flex; justify-content: center; gap: 20px; background-color: pink; padding: 10px; border-radius: 15px;">
-  <p>
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=kannu74&show_icons=true&locale=en&theme=radical" alt="kannu74" />
-  </p>
-  <p>
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kannu74&layout=pie&theme=radical" alt="kannu74" />
-  </p>
+
 </div>
